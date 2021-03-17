@@ -1,0 +1,33 @@
+h1{
+	padding-top: 20px; /*relleno arriba*/
+	color: orange;
+	font-weight: 100;
+	font-family: "piedra", cursive;
+	clear: both;
+	}
+p {
+	color: blue;
+}
+#rojo {
+	width: 40%; /*ancho*/
+	height: 150px; /*altura*/
+	background-color: red; 
+	float: left;
+	margin-left: 10%; /*sirve para correr las cajitas a la derecha
+*/
+	font-size: 40px; /*sirve para agrandar las letras, 16 px es la base*/
+	
+	padding-left: 10px; 
+} 
+
+#azul {
+	width: 40%; 
+	height: 150px;
+	background-color: blue; 
+	float: right;
+	margin-right: 5%; /*sirve para correr las cajitas a la izquierda
+
+*/
+	font-size: 40px;
+	padding-left:  10px; /*padding: sirve para correr el texto de las cajas
+	*/}
